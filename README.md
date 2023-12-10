@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
-	 <img src="https://img.shields.io/badge/tailwindcss-#06B6D4?style=flat&logo=TailwindCss&logoColor=white" />
+	 <img src="https://img.shields.io/badge/tailwindcss-#06B6D4?style=flat&logo=Tailwind-CSS&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white" />
