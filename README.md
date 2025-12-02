@@ -33,7 +33,7 @@
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/ClaudeCode-#D97757?style=flat&logo=claude&logoColor=white" />
+	<img src="https://img.shields.io/badge/ClaudeCode-D97757?style=flat&logo=claude&logoColor=white" />
 </div>
 <br>
 <div align=center>
